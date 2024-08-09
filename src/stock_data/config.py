@@ -1,0 +1,2 @@
+ALPHAVANTAGE_ENDPOINT = "https://www.alphavantage.co/query"
+ALPHAVANTAGE_API_KEY = 'EGI4IVDOQYEZCUPI'
